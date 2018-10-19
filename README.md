@@ -1,19 +1,31 @@
-# Keras-Tutorials
+# Keras-Tutorials for Google Colab
 
-Introduction to deep learning based on Keras framework. These tutorials are direct ports of nlintz's [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials).
+Introduction to deep learning based on Keras framework. 
+These tutorials are direct ports of nlintz's [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+and the Keras adaptation (https://github.com/tgjeon/Keras-Tutorials), 
+notebooks made ready to run on Google Colab.
 
 *Basic Topics (from nlint'z github)*
 
-* Linear Regression ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/01_linear_regression.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/01_linear_regression.ipynb))
-* Logistic Regression ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.ipynb))
-* Feedforward Neural Network (Multilayer Perceptron) ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.ipynb))
-* Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o) ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/04_modern_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/04_modern_net.ipynb))
-* Convolutional Neural Network ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/05_convolutional_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/05_convolutional_net.ipynb))
-* Denoising Autoencoder ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/06_autoencoder.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/06_autoencoder.ipynb))
-* Recurrent Neural Network (LSTM) ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/07_lstm.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/07_lstm.ipynb))
+* Linear Regression ([code](https://github.com/kekim/Keras-Tutorials/blob/master/01_linear_regression.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/01_linear_regression.ipynb))
+* Logistic Regression ([code](https://github.com/kekim/Keras-Tutorials/blob/master/02_logistic_regression.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/02_logistic_regression.ipynb))
+* Feedforward Neural Network (Multilayer Perceptron) ([code](https://github.com/kekim/Keras-Tutorials/blob/master/03_net.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/03_net.ipynb))
+* Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o) ([code](https://github.com/kekim/Keras-Tutorials/blob/master/04_modern_net.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/04_modern_net.ipynb))
+* Convolutional Neural Network ([code](https://github.com/kekim/Keras-Tutorials/blob/master/05_convolutional_net.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/05_convolutional_net.ipynb))
+* Denoising Autoencoder ([code](https://github.com/kekim/Keras-Tutorials/blob/master/06_autoencoder.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/06_autoencoder.ipynb))
+* Recurrent Neural Network (LSTM) ([code](https://github.com/kekim/Keras-Tutorials/blob/master/07_lstm.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/07_lstm.ipynb))
 * Word2vec
-* TensorBoard ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/09_tensorboard.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/09_tensorboard.ipynb))
-* Save and restore net ([code](https://github.com/tgjeon/Keras-Tutorials/blob/master/10_save_restore_net.py), [notebook](https://github.com/tgjeon/Keras-Tutorials/blob/master/10_save_restore_net.ipynb))
+* TensorBoard ([code](https://github.com/kekim/Keras-Tutorials/blob/master/09_tensorboard.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/09_tensorboard.ipynb))
+* Save and restore net ([code](https://github.com/kekim/Keras-Tutorials/blob/master/10_save_restore_net.py), 
+[notebook](https://github.com/kekim/Keras-Tutorials/blob/master/10_save_restore_net.ipynb))
 
 *Advanced Topics*
 
